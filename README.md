@@ -1,0 +1,1 @@
+# aws-static-s3
